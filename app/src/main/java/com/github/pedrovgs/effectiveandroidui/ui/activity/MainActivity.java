@@ -29,7 +29,7 @@ import java.util.List;
  * Core activity of this application. This activity receives the launch intent and works as core of
  * the sample application.
  */
-/*haha*/
+
 public class MainActivity extends BaseActivity {
 
     private TvShowDraggableFragment tvShowDraggableFragment;
